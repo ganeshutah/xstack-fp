@@ -13,68 +13,7 @@
 #   the Section on this file in the /site-content/README.md file.
 #  You can also add your own fields if you want access to the data via liquid.
 
-
-
-CIVIC:
-  title: The CIVL Software System
-  author: Stephen F. Siegel
-  url: https://vsl.cis.udel.edu/civl/index.html
-  repo:             ... # URL to other repo for the software
-  links: 
-    docs:             ... # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
-    email:            ... # primary contact email address for entire proj
-    website:          ... # URL to a separate website for the proj (maybe official university page, etc.)
-    reddit:           ... # sub-reddit name (prepend "r/" for sub-reddit or "u/" for a user)
-    forum:            ... # URL to a help forum (i.e. repo issues page or an actual forum)
-    youtube:          ... # youtube channel URL
-    vimeo:            ... # vimeo channel name (who even are you?)
-    twitter:          ... # twitter handle (if you add this you're probably annoying)
-    instagram:        ... # instagram profile name (if you add this you're a bad person)
-    facebook:         ... # facebook page name (if you add this you're old
-  licence: MIT
-  abstract: Concurrency Intermediate Verification Language
-
-
-
-uintah:
-  title: Sword
-  author: Simone Atzeni et al.
-  url: pruners.github.io
-  repo:  pruners.github.io
-#  icon: https://cdn.vox-cdn.com/thumbor/6C5Yi14bAf7iRHvCEWK9xlL5TYM=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/64978846/3b17607095.0.jpeg
-#  image: https://www.autoitscript.com/autoit3/docs/images/SampleGuiScreenshot.png
-  links: 
-    docs:             ... # URL to page containing documentation for one thing or another (this will also be added to the nav bar)
-    email:            ... # primary contact email address for entire proj
-    website:          ... # URL to a separate website for the proj (maybe official university page, etc.)
-    reddit:           ... # sub-reddit name (prepend "r/" for sub-reddit or "u/" for a user)
-    forum:            ... # URL to a help forum (i.e. repo issues page or an actual forum)
-    youtube:          ... # youtube channel URL
-    vimeo:            ... # vimeo channel name (who even are you?)
-    twitter:          ... # twitter handle (if you add this you're probably annoying)
-    instagram:        ... # instagram profile name (if you add this you're a bad person)
-    facebook:         ... # facebook page name (if you add this you're old
-  licence: MIT
-  licence_url: ... # url to official licence page or file.
-  # crossref={mb,ahumphre},
-  abstract: The Sword Race Checker
-
-
-
-archer:
-  title: 'Archer: Data race detector for OpenMP programs'
-  author: Simone Atzeni
-  url: https://github.com/PRUNERS/archer
-  # crossref={simone,archer,pruners},
-  abstract: Archer combines static and dynamic techniques to identify data races in large OpenMP applications.},
  
-
-ds2:
-  title: 'DS2: Distributed Systems Domain Specific Language'
-  author: Mohammad Al Mahfoudh, Heath French, Anushree Singh, Zepeng Zhao
-  url: http://formalverification.cs.utah.edu/Gauss/Pages/ds2/
-  # crossref={mahfoudh,ds2},
-  abstract: DS2 provides practitioners with verification infrastructure and tools aiding them build systems faster and with more correctness guarantees.
 
 flit:
   title: 'FLiT: Floating-Point Litmus Tester - reproducibility testing framework'
