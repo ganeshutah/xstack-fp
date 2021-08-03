@@ -104,3 +104,15 @@ doloresmiao:
     pronouns  : she/her
     pfp       : https://i.imgur.com/cHa3F50.png
     abstract  : I like working with compilers and floating-point/GPU programming stuff.
+
+crubio:
+    name      : Cindy Rubio-González
+    email     : crubio@ucdavis.edu
+    links     :
+        website     : https://web.cs.ucdavis.edu/~rubio/   # URL your personal webpage and/or portfolio
+        github      : crubio   # github username
+    position  : Associate Professor
+    title     : Department of Computer Science @ UC Davis
+    pronouns  : she/her
+    pfp       : https://i.imgur.com/cHa3F50.png
+    abstract  : ...
