@@ -33,8 +33,6 @@
 # #         instagram : ${instagram profile-name/user-name}
 # #         facebook  : ${url to specific page or profile} # not sure why you would include this one but you could.
 
-
-
 bob101:
     name      : Robert Bentley
     email     : bob101@gmail.com
@@ -94,3 +92,15 @@ mwillsey:
     pronouns  : he/him
     pfp       : https://www.mwillsey.com/assets/max.jpg
     abstract  : Developer of the [`egg`](https://egraphs-good.github.io) e-graph library.
+
+doloresmiao:
+    name      : Dolores Miao
+    email     : wjmiao@ucdavis.edu
+    links     :
+        website     : https://www.linkedin.com/in/dolores-miao-82b4a061/   # URL your personal webpage and/or portfolio
+        github      : doloresmiao   # github username
+    position  : Ph.D. student
+    title     : Programming languages / GPU programming enthusiast
+    pronouns  : she/her
+    pfp       : https://i.imgur.com/cHa3F50.png
+    abstract  : I like working with compilers and floating-point/GPU programming stuff.
