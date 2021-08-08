@@ -10,7 +10,7 @@
 # this is displayed on the page header of every page & in the page metadata.
 title:              "XStack-FP: Comport"
 # this is displayed on the about page
-bio:                'This is a research page for publications and software created under Prof. Ganesh Gopalakrishnan’s guidance, for the XStack-FP: Comport project.'
+bio:                ...for showing good ComPort by ensuring that numerically-intense code can be reliably ported across heterogeneous hardware and software
 # this is displayed on the about page & in the page metadata
 description:        "This is a research page for publications and software created under Prof. Ganesh Gopalakrishnan’s guidance, for the Comport XStack-FP: Comport project."
 # The location & language information for the site (part of the site metadata)
