@@ -8,7 +8,7 @@
 
 # << ========================== Required Section =========================== >> 
 # this is displayed on the page header of every page & in the page metadata.
-title: "XStack-FP - ComPort"
+title: "ComPort"
 # this is displayed on the about page
 bio: ...for showing good ComPort by ensuring that numerically-intense code can be reliably ported across heterogeneous hardware and software
 # this is displayed on the about page & in the page metadata
