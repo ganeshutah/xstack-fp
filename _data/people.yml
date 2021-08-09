@@ -33,29 +33,28 @@
 # #         instagram : ${instagram profile-name/user-name}
 # #         facebook  : ${url to specific page or profile} # not sure why you would include this one but you could.
 
-bob101:
-    name      : Robert Bentley
-    email     : bob101@gmail.com
+ganesh:
+    name      : Ganesh Gopalakrishnan
+    email     : ganesh@cs.utah.edu
     links     :
-        website     : ...Please Add Me...   # URL your personal webpage and/or portfolio
-        github      : ...   # bitbucket username
-        gitlab      : ...   # gitlab username
-        gitlab_url  : ...   # URL to self hosted gitlab user profile (this will supersede the normal gitlab)
-        bitbucket   : ...   # bitbucket username
-        reddit      : ...   # sub-reddit name (prepend "r/" for sub-reddit or "u/" for a user)
-        forum       : ...   # URL to user profile on the proj help forum
-        youtube     : ...   # youtube channel URL (harmless self promotion)
-        vimeo       : ...   # vimeo channel name (who even are you?)
-        twitter     : ...   # twitter handle (if you add this you're probably annoying)
-        instagram   : ...   # instagram profile name (if you add this you're a bad person)
-        facebook    : ...   # facebook page name (if you add this you're old)
-    position  : ms student
-    title     : Coffee Grabber Extraordinaire
-    pronouns  : they/them
-    pfp       : http://static1.squarespace.com/static/54c85166e4b03a5492fe6e90/t/5fca828c5bd8fe559a71b0e0/1607107218301/Rob+Salmeron+Headshot.jpeg
-    abstract  : |
-                  Resident expert at maze solving algorithms & fetching coffee.
-                  _Feel free to tag me in any issues with the aMAZEsoft project in it's repo._
+        website     : https://www.cs.utah.edu/~ganesh  # URL your personal webpage and/or portfolio
+        github      : ganeshutah
+    position  : Site-PI
+    title     : Professor
+    pfp       : # http://static1.squarespace.com/static/54c85166e4b03a5492fe6e90/t/5fca828c5bd8fe559a71b0e0/1607107218301/Rob+Salmeron+Headshot.jpeg
+    abstract  : Professor, School of Computing, University of Utah
+
+crubio:
+    name      : Cindy Rubio-González
+    email     : crubio@ucdavis.edu
+    links     :
+        website     : https://web.cs.ucdavis.edu/~rubio/   # URL your personal webpage and/or portfolio
+        github      : crubio   # github username
+    position  : Associate Professor
+    title     : Department of Computer Science @ UC Davis
+    pronouns  : she/her
+    pfp       : https://i.imgur.com/cHa3F50.png
+    abstract  : ...
 
 tanmay_tirpankar:
     name      : Tanmay Tirpankar
@@ -105,14 +104,3 @@ doloresmiao:
     pfp       : https://i.imgur.com/cHa3F50.png
     abstract  : I like working with compilers and floating-point/GPU programming stuff.
 
-crubio:
-    name      : Cindy Rubio-González
-    email     : crubio@ucdavis.edu
-    links     :
-        website     : https://web.cs.ucdavis.edu/~rubio/   # URL your personal webpage and/or portfolio
-        github      : crubio   # github username
-    position  : Associate Professor
-    title     : Department of Computer Science @ UC Davis
-    pronouns  : she/her
-    pfp       : https://i.imgur.com/cHa3F50.png
-    abstract  : ...
