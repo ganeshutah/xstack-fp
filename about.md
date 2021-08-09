@@ -13,12 +13,6 @@ sitemap:
 permalink: index.html
 ---
 
-
-<span class="image left"><img src="{{ "/images/cesm-coupling.png" | absolute_url }}" alt="" /></span>
-(Figure from CACM February 2021, ``Keeping Science on Keel when Software Moves.'': A three-dimensional, undirected representation of the example from Figure 6. Nodes are colored by community membership and sized based on a threshold centrality value. The red nodes represent model variables sensitive to specific CPU instructions. All nodes with eigenvector centrality ≤ 0.4 have a constant size, and those above the threshold are scaled and highlighted by increased reflectance. Credit: Liam Krauss of LLNL.)
-
-<p>
-
 ### Collaborating institutions
 <div class="box">
   <p>
@@ -29,6 +23,14 @@ permalink: index.html
 * Pacific Northwest National Laboratory: PI: Ang Li
   </p>
 </div>
+
+
+<span class="image left"><img src="{{ "/images/cesm-coupling.png" | absolute_url }}" alt="" /></span>
+(Figure from CACM February 2021, ``Keeping Science on Keel when Software Moves.'': A three-dimensional, undirected representation of the example from Figure 6. Nodes are colored by community membership and sized based on a threshold centrality value. The red nodes represent model variables sensitive to specific CPU instructions. All nodes with eigenvector centrality ≤ 0.4 have a constant size, and those above the threshold are scaled and highlighted by increased reflectance. Credit: Liam Krauss of LLNL.)
+
+
+
+
 
 
 
