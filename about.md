@@ -16,8 +16,10 @@ permalink: index.html
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-Collaborating institutions:
 
+### Collaborating institutions
+<div class="box">
+  <p>
 * University of Utah: PI: Ganesh Gopalakrishnan, Co-PI: Pavel Panchekha
 
 * University of California, Davis: PI: Cindy Rubio-Gonzalez
@@ -27,14 +29,10 @@ Collaborating institutions:
 * Lawrence Livermore National Laboratory: PI: Ignacio Laguna
 
 * Pacific Northwest National Laboratory: PI: Ang Li
-
-
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
   </p>
 </div>
+
+
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
