@@ -20,14 +20,10 @@ permalink: index.html
 ### Collaborating institutions
 <div class="box">
   <p>
-* University of Utah: PI: Ganesh Gopalakrishnan, Co-PI: Pavel Panchekha
-
-* University of California, Davis: PI: Cindy Rubio-Gonzalez
-
-* University of Washington, Seattle: PI: Zachary Tatlock
-
-* Lawrence Livermore National Laboratory: PI: Ignacio Laguna
-
+* University of Utah: PI: Ganesh Gopalakrishnan, Co-PI: Pavel Panchekha <br>
+* University of California, Davis: PI: Cindy Rubio-Gonzalez <br>
+* University of Washington, Seattle: PI: Zachary Tatlock <br>
+* Lawrence Livermore National Laboratory: PI: Ignacio Laguna <br>
 * Pacific Northwest National Laboratory: PI: Ang Li
   </p>
 </div>
