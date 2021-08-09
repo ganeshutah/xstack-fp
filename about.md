@@ -14,7 +14,7 @@ permalink: index.html
 ---
 
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/cesm-coupling.png" | absolute_url }}" alt="" /></span>
 
 
 ### Collaborating institutions
