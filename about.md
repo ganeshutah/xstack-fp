@@ -13,7 +13,7 @@ sitemap:
 permalink: index.html
 ---
 
-### Collaborating institutions
+
 <div class="box">
   <p>
 * University of Utah: PI: Ganesh Gopalakrishnan, Co-PI: Pavel Panchekha <br>
