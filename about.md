@@ -15,7 +15,6 @@ permalink: index.html
 
 <hr>
 RESEARCH TEAM
-<hr>
 
 <div class="box">
   <p>
@@ -29,7 +28,6 @@ RESEARCH TEAM
 
 <hr>
 RESEARCH SUMMARY
-<hr>
 
 As part of the recently announced DOE-investment in Research on
 Adapting Scientific Software to Run on Next-Generation Supercomputers,
