@@ -15,7 +15,9 @@ permalink: index.html
 
 
 <span class="image left"><img src="{{ "/images/cesm-coupling.png" | absolute_url }}" alt="" /></span>
+(Figure from CACM February 2021, ``Keeping Science on Keel when Software Moves.'': A three-dimensional, undirected representation of the example from Figure 6. Nodes are colored by community membership and sized based on a threshold centrality value. The red nodes represent model variables sensitive to specific CPU instructions. All nodes with eigenvector centrality ≤ 0.4 have a constant size, and those above the threshold are scaled and highlighted by increased reflectance. Credit: Liam Krauss of LLNL.)
 
+<p>
 
 ### Collaborating institutions
 <div class="box">
@@ -30,6 +32,3 @@ permalink: index.html
 
 
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
