@@ -1,12 +1,3 @@
----
-layout: info-post
-title: '"Peachy Assignments," a Poster Session at EduPar 2018'
-author: "Andrew the dev/tester"
-id: peachy_assignments
-tags: [education, talks, uintah, bob101]
-info_type: education
----
-
 ### Test Title
 
 test content
