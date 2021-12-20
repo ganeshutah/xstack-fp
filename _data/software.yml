@@ -22,3 +22,31 @@ flit:
   # crossref={flit, bentley},
   abstract: FLiT is a reproducibility testing framework for floating-point algorithms under different compilers and optimizations
 
+Herbie: 
+  title:[Automatically Improving Accuracy for Floating Point Expressions](http://herbie.uwplse.org/pldi15-paper.pdf)
+  author: Pavel Panchekha, Alex Sanchez-Stern, David Thien, Zachary Tatlock, Jason Qiu, Jack Firth, and James R. Wilcox
+  url:http://herbie.uwplse.org/
+  #crossref={}
+  abstract: Herbie detects inaccurate expressions and finds more accurate replacements.
+
+SATIRE: 
+  title:[SATIRE: Scalable Abstraction-guided Technique for Incremental Rigorous analysis of round-off Errors](https://par.nsf.gov/servlets/purl/10294504)
+  author: Pavel Panchekha, Alex Sanchez-Stern, David Thien, Zachary Tatlock, Jason Qiu, Jack Firth, and James R. Wilcox
+  url:https://github.com/arnabd88/Satire
+  #crossref={}
+  abstract: Satire is a first order error analysis tool for obtaining rigorous bounds on worst case floating point round-off errors. It works on straight line floating-point programs.
+
+Seesaw: 
+  title:SEESAW: Scalable Error Analysis of Conditional Floating Point Programs
+  author:Arnab Das, Ian Briggs, Ganesh Gopalakrishnan, Sriram Krishnamoorthy, Pavel Panchekha
+  url:https://github.com/arnabd88/Seesaw
+  #crossref={}
+  abstract: Seesaw similar to its predecessor Satire is a first order error analysis tool for obtaining rigorous bounds on worst case floating point round-off errors. But unlike Satire, Seesaw works on floating-point programs WITH conditions.
+
+
+SaneFP: 
+  title:
+  author: 
+  url:https://fpchecker.org/
+  #crossref={}
+  abstract: SaneFP(used to be FPChecker) is a dynamic analysis tool to detect floating-point errors in HPC applications.
