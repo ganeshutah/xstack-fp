@@ -1,6 +1,8 @@
 ---
 title: Education/Talks
 description: Our recommended learning resources 
+
+
 # DO NOT CHANGE ANY FIELD BELOW THIS COMMENT
 layout: info-page
 id: education
