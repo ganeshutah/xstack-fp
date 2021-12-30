@@ -18,28 +18,34 @@
 flit:
   title: 'FLiT: Floating-Point Litmus Tester - reproducibility testing framework'
   author: Michael Bentley, Geof Sawaya, Ian Briggs
-  url: https://github.com/PRUNERS/FLiT
+  repo: https://github.com/PRUNERS/FLiT
   # crossref={flit, bentley},
   abstract: FLiT is a reproducibility testing framework for floating-point algorithms under different compilers and optimizations
 
 Herbie: 
-  title: 'Automatically Improving Accuracy for Floating Point Expressions'
+  title: 'Herbie: Automatically Improving Accuracy for Floating Point Expressions'
   author: Pavel Panchekha, Alex Sanchez-Stern, David Thien, Zachary Tatlock, Jason Qiu, Jack Firth, and James R. Wilcox
   url: http://herbie.uwplse.org/
+  link:
+    docs: https://dl.acm.org/doi/pdf/10.1145/2737924.2737959
   #crossref={}
   abstract: Herbie detects inaccurate expressions and finds more accurate replacements.
 
 SATIRE: 
   title: 'SATIRE: Scalable Abstraction-guided Technique for Incremental Rigorous analysis of round-off Errors'
   author: Arnab Das, Ian Briggs, Ganesh Gopalakrishnan, Sriram Krishnamoorthy, Pavel Panchekha
-  url: https://github.com/arnabd88/Satire
+  repo: https://github.com/arnabd88/Satire
+  link:
+    docs: https://arxiv.org/pdf/2004.11960.pdf
   #crossref={}
   abstract: Satire is a first order error analysis tool for obtaining rigorous bounds on worst case floating point round-off errors. It works on straight line floating-point programs.
 
 Seesaw: 
   title: 'SEESAW: Scalable Error Analysis of Conditional Floating Point Programs'
   author: Arnab Das, Tanmay Tirpankar, Ganesh Gopalakrishnan, Sriram Krishnamoorthy
-  url: https://github.com/arnabd88/Seesaw
+  repo: https://github.com/arnabd88/Seesaw
+  link:
+    docs: https://ieeexplore.ieee.org/abstract/document/9556024/authors
   #crossref={}
   abstract: Seesaw similar to its predecessor Satire is a first order error analysis tool for obtaining rigorous bounds on worst case floating point round-off errors. But unlike Satire, Seesaw works on floating-point programs WITH conditions.
 
@@ -48,5 +54,6 @@ FPChecker:
   title: 'FPChecker: Detecting Floating-point Exceptions in GPU Applications'
   author: Laguna Ignacio
   url: https://fpchecker.org/
+  repo: https://github.com/LLNL/FPChecker
   #crossref={}
   abstract: FPChecker is a dynamic analysis tool to detect floating-point errors in HPC applications.
