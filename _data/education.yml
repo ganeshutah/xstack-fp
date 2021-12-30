@@ -26,4 +26,20 @@ FPTalks:
             brings together researchers to discuss the ongoing work in floating-
             point research and share achievements. It is a part of the FPBench
             community.
+
+correctness-2021:
+    title: Guarding Numerics Amidst Rising Heterogeneity,a presentation at correctness-workshop
+    author: Ganesh Gopalakrishnan, Ignacio Laguna, Ang Li, Pavel Panchekha, Cindy Rubio-Gonzalez, Zachary Tatlock
+    url: https://docs.google.com/presentation/d/15TwBExiJ_D01YRpziWADO2jhf3wlp8Ig/edit#slide=id.p1
+    cite_key: correctness-2021
+    #abstract:  
+
+sssdu-2021: 
+    title: Science of Software Development, a summary of our position at SSSD-U, 2021
+    author: Ganesh Gopalakrishnan, with [members of the X-Stack Project ComPort](https://xstack-fp.github.io/)
+    url: https://docs.google.com/presentation/d/1gEEoTJrsWAfTvETIqMoCQu0UyuWxPTLS/edit#slide=id.p1
+    cite_key: sssdu-2021
+    #abstract: 
+
+ 
         
