@@ -187,5 +187,5 @@ jekyll-mentions:
   base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, docs, src, vendor, CNAME, LICENSE, Rakefile, old, .old, scripts, par_site_tar.gz, fv_site_tar.gz, update_log.txt, .vscode, .mypy_cache, update_scripts, site-src]
+exclude: [people/bob101.md, README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, docs, src, vendor, CNAME, LICENSE, Rakefile, old, .old, scripts, par_site_tar.gz, fv_site_tar.gz, update_log.txt, .vscode, .mypy_cache, update_scripts, site-src]
 # include: [site-content/_posts, site-content/_people, site-content/_software, site-content/_education, _posts, _people, _software, _education]
