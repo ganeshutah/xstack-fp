@@ -8,11 +8,11 @@
 
 # << ========================== Required Section =========================== >> 
 # this is displayed on the page header of every page & in the page metadata.
-title: "X-Stack FP: ComPort"
+title:              "X-Stack FP: ComPort"
 # this is displayed on the about page
-bio:                ...for showing good ComPort by ensuring that numerically-intense code can be reliably ported across heterogeneous hardware and software
+bio:                "For showing good ComPort by ensuring that numerically-intense code can be reliably ported across heterogeneous hardware and software."
 # this is displayed on the about page & in the page metadata
-description: "Website for the DOE X-Stack award for reliable software addressing upcoming machines"
+description:        "Website for the DOE X-Stack award for reliable software addressing upcoming machines."
 
 # The location & language information for the site (part of the site metadata)
 locale:             en_US
