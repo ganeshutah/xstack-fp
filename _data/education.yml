@@ -14,6 +14,25 @@
 #  You can also add your own fields if you want access to the data via liquid.
 
 
+NumericalHardware:
+    title: "The Numerical Hardware Design Landscape: Challenges and Opportunities"
+    author: Dr. Theo Drane
+    url: "/assets/pdf/NumericalHardware.pdf"
+    date: April 7 2022
+    cite_key: numerical-hardware-2022
+    abstract: |
+        Numerical hardware design is most challenging and most
+        valuable when the hardware concerned is dominated by diverse and
+        evolving compute tasks, and pushed to the limit in terms of needing
+        low area, high frequency & low power consumption. GPU hardware design
+        offers such a multi-faceted challenge. This talk will walk through the
+        potency of optimizations at an algorithm, number format, precision,
+        accuracy and logic gate level; show key examples of hardware design
+        space definition and exploration, and the general challenges of doing
+        so: algorithm design, specification creation, modelling, hardware
+        implementation & optimization with formal verification and validation
+        used throughout.
+
 FPTalks:
     title: FPTalks 2021, a workshop for leading edge Floating-Point Research
     author: Pavel Panchekha
