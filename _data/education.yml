@@ -1,64 +1,79 @@
-# << ======================================================================= >> 
-# <<                        EDUCATION DATA YAML FILE                         >> 
-# << ======================================================================= >> 
-#  This is a data file containing the information 
+# << ======================================================================= >>
+# <<                        EDUCATION DATA YAML FILE                         >>
+# << ======================================================================= >>
+#  This is a data file containing the information
 #   about educational resources relevant to the project.
 #  Entries must take the form of a key/value dict/obj structure,
-#   w/ all entries having unique keys, 
+#   w/ all entries having unique keys,
 #   that are memorable for anyone.
-#  Please fill out all required fields 
+#  Please fill out all required fields
 #   (indicated in the template by not being double commented out),
 #   and whatever other fields you feel comfortable doing.
-#  For more information about the fields please check out 
+#  For more information about the fields please check out
 #   the Section on this file in the /site-content/README.md file.
 #  You can also add your own fields if you want access to the data via liquid.
 
+ECPFLiTTutorial:
+  title: "FLiT: Locating Floating-Point Variability Induced By Compiler Optimizations"
+  author: Ignacio Laguna, Ganesh Gopalakrishnan
+  url: "/assets/pdf/ECP-FLiT-Tutorial.pdf"
+  date: May 4 2022
+  cite_key: ecp-flit-tutorial-2022
+  abstract: |
+    Numerical reproducibility across compilers is desired,
+    but not guaranteed under certain compiler optimizations.
+    Compiling using aggressive optimizations (e.g., -O3 and Fast-Math)
+    can give vastly different program results from the reference baseline 
+    -- not because the compiler has a bug, but because of floating-point
+    rounding effects. This can undermine one's quest for higher speed
+    by giving the wrong answer.
+    FLiT is a reproducibility test framework in the PRUNERS toolset
+    (see https://pruners.github.io), where hundreds of compilations
+    across a variety of compilers and optimization levels are run
+    and compared to a reference baseline compilation.
 
 NumericalHardware:
-    title: "The Numerical Hardware Design Landscape: Challenges and Opportunities"
-    author: Dr. Theo Drane
-    url: "/assets/pdf/NumericalHardware.pdf"
-    date: April 7 2022
-    cite_key: numerical-hardware-2022
-    abstract: |
-        Numerical hardware design is most challenging and most
-        valuable when the hardware concerned is dominated by diverse and
-        evolving compute tasks, and pushed to the limit in terms of needing
-        low area, high frequency & low power consumption. GPU hardware design
-        offers such a multi-faceted challenge. This talk will walk through the
-        potency of optimizations at an algorithm, number format, precision,
-        accuracy and logic gate level; show key examples of hardware design
-        space definition and exploration, and the general challenges of doing
-        so: algorithm design, specification creation, modelling, hardware
-        implementation & optimization with formal verification and validation
-        used throughout.
+  title: "The Numerical Hardware Design Landscape: Challenges and Opportunities"
+  author: Dr. Theo Drane
+  url: "/assets/pdf/NumericalHardware.pdf"
+  date: April 7 2022
+  cite_key: numerical-hardware-2022
+  abstract: |
+    Numerical hardware design is most challenging and most
+    valuable when the hardware concerned is dominated by diverse and
+    evolving compute tasks, and pushed to the limit in terms of needing
+    low area, high frequency & low power consumption. GPU hardware design
+    offers such a multi-faceted challenge. This talk will walk through the
+    potency of optimizations at an algorithm, number format, precision,
+    accuracy and logic gate level; show key examples of hardware design
+    space definition and exploration, and the general challenges of doing
+    so: algorithm design, specification creation, modelling, hardware
+    implementation & optimization with formal verification and validation
+    used throughout.
 
 FPTalks:
-    title: FPTalks 2021, a workshop for leading edge Floating-Point Research
-    author: Pavel Panchekha
-    url:  https://fpbench.org/talks/fptalks21.html
-    date: July 14 2021
-    icon: https://fpbench.org/img/logo.png
-    cite_key: fpbench
-    abstract: |
-            FPTalks is an annual workshop hosted by Dr. Pavel Panchekha. It
-            brings together researchers to discuss the ongoing work in floating-
-            point research and share achievements. It is a part of the FPBench
-            community.
+  title: FPTalks 2021, a workshop for leading edge Floating-Point Research
+  author: Pavel Panchekha
+  url: https://fpbench.org/talks/fptalks21.html
+  date: July 14 2021
+  icon: https://fpbench.org/img/logo.png
+  cite_key: fpbench
+  abstract: |
+    FPTalks is an annual workshop hosted by Dr. Pavel Panchekha. It
+    brings together researchers to discuss the ongoing work in floating-
+    point research and share achievements. It is a part of the FPBench
+    community.
 
 correctness-2021:
-    title: Guarding Numerics Amidst Rising Heterogeneity,a presentation at correctness-workshop
-    author: Ganesh Gopalakrishnan, Ignacio Laguna, Ang Li, Pavel Panchekha, Cindy Rubio-Gonzalez, Zachary Tatlock
-    url: https://docs.google.com/presentation/d/15TwBExiJ_D01YRpziWADO2jhf3wlp8Ig/edit#slide=id.p1
-    cite_key: correctness-2021
-    #abstract:  
+  title: Guarding Numerics Amidst Rising Heterogeneity,a presentation at correctness-workshop
+  author: Ganesh Gopalakrishnan, Ignacio Laguna, Ang Li, Pavel Panchekha, Cindy Rubio-Gonzalez, Zachary Tatlock
+  url: https://docs.google.com/presentation/d/15TwBExiJ_D01YRpziWADO2jhf3wlp8Ig/edit#slide=id.p1
+  cite_key: correctness-2021
+  #abstract:
 
-sssdu-2021: 
-    title: Science of Software Development, a summary of our position at SSSD-U, 2021
-    author: Ganesh Gopalakrishnan, with [members of the X-Stack Project ComPort](https://xstack-fp.github.io/)
-    url: https://docs.google.com/presentation/d/1gEEoTJrsWAfTvETIqMoCQu0UyuWxPTLS/edit#slide=id.p1
-    cite_key: sssdu-2021
-    #abstract: 
-
- 
-        
+sssdu-2021:
+  title: Science of Software Development, a summary of our position at SSSD-U, 2021
+  author: Ganesh Gopalakrishnan, with [members of the X-Stack Project ComPort](https://xstack-fp.github.io/)
+  url: https://docs.google.com/presentation/d/1gEEoTJrsWAfTvETIqMoCQu0UyuWxPTLS/edit#slide=id.p1
+  cite_key: sssdu-2021
+  #abstract:
