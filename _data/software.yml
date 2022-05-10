@@ -13,7 +13,11 @@
 #   the Section on this file in the /site-content/README.md file.
 #  You can also add your own fields if you want access to the data via liquid.
 
- 
+BinFPE:
+  title: 'BinFPE: Detecting floating-point exceptions in NVIDIA GPU applications.' 
+  author: Ignacio Laguna
+  repo: https://github.com/LLNL/BinFPE
+  abstract: BinFPE is a tool that detects floating-point exceptions (NaN, infinity, and subnormal quantities) in NVIDIA GPU applications using binary instrumentation. It requires no re-compilation of the application and can analyze libraries. The tool extends NVBit, which is provided by NVIDIA Labs to analyze binaries. We provide a patch to NVBit to build BinFPE.
 
 flit:
   title: 'FLiT: Floating-Point Litmus Tester - reproducibility testing framework'
