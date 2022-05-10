@@ -1,63 +1,57 @@
-# << ======================================================================= >> 
-# <<                           SOFTWARE DATA YAML                            >> 
-# << ======================================================================= >> 
-#  This is a data file containing the information 
+# << ======================================================================= >>
+# <<                           SOFTWARE DATA YAML                            >>
+# << ======================================================================= >>
+#  This is a data file containing the information
 #   about software made by this project.
 #  Entries must take the form of a key/value dict/obj structure,
-#   w/ all entries having unique keys, 
+#   w/ all entries having unique keys,
 #   that are memorable for anyone.
-#  Please fill out all required fields 
+#  Please fill out all required fields
 #   (indicated in the template by not being double commented out),
 #   and whatever other fields you feel comfortable doing.
-#  For more information about the fields please check out 
+#  For more information about the fields please check out
 #   the Section on this file in the /site-content/README.md file.
 #  You can also add your own fields if you want access to the data via liquid.
 
 BinFPE:
-  title: 'BinFPE: Detecting floating-point exceptions in NVIDIA GPU applications.' 
+  title: "BinFPE: Detecting floating-point exceptions in NVIDIA GPU applications."
   author: Ignacio Laguna
   repo: https://github.com/LLNL/BinFPE
   abstract: BinFPE is a tool that detects floating-point exceptions (NaN, infinity, and subnormal quantities) in NVIDIA GPU applications using binary instrumentation. It requires no re-compilation of the application and can analyze libraries. The tool extends NVBit, which is provided by NVIDIA Labs to analyze binaries. We provide a patch to NVBit to build BinFPE.
 
 flit:
-  title: 'FLiT: Floating-Point Litmus Tester - reproducibility testing framework'
+  title: "FLiT: Floating-Point Litmus Tester - reproducibility testing framework"
   author: Michael Bentley, Geof Sawaya, Ian Briggs
   repo: https://github.com/PRUNERS/FLiT
-  # crossref={flit, bentley},
   abstract: FLiT is a reproducibility testing framework for floating-point algorithms under different compilers and optimizations
 
-Herbie: 
-  title: 'Herbie: Automatically Improving Accuracy for Floating Point Expressions'
+Herbie:
+  title: "Herbie: Automatically Improving Accuracy for Floating Point Expressions"
   author: Pavel Panchekha, Alex Sanchez-Stern, David Thien, Zachary Tatlock, Jason Qiu, Jack Firth, and James R. Wilcox
   url: http://herbie.uwplse.org/
   link:
     docs: https://dl.acm.org/doi/pdf/10.1145/2737924.2737959
-  #crossref={}
   abstract: Herbie detects inaccurate expressions and finds more accurate replacements.
 
-SATIRE: 
-  title: 'SATIRE: Scalable Abstraction-guided Technique for Incremental Rigorous analysis of round-off Errors'
+SATIRE:
+  title: "SATIRE: Scalable Abstraction-guided Technique for Incremental Rigorous analysis of round-off Errors"
   author: Arnab Das, Ian Briggs, Ganesh Gopalakrishnan, Sriram Krishnamoorthy, Pavel Panchekha
   repo: https://github.com/arnabd88/Satire
   link:
     docs: https://arxiv.org/pdf/2004.11960.pdf
-  #crossref={}
   abstract: Satire is a first order error analysis tool for obtaining rigorous bounds on worst case floating point round-off errors. It works on straight line floating-point programs.
 
-Seesaw: 
-  title: 'SEESAW: Scalable Error Analysis of Conditional Floating Point Programs'
+Seesaw:
+  title: "SEESAW: Scalable Error Analysis of Conditional Floating Point Programs"
   author: Arnab Das, Tanmay Tirpankar, Ganesh Gopalakrishnan, Sriram Krishnamoorthy
   repo: https://github.com/arnabd88/Seesaw
   link:
     docs: https://ieeexplore.ieee.org/abstract/document/9556024/authors
-  #crossref={}
   abstract: Seesaw similar to its predecessor Satire is a first order error analysis tool for obtaining rigorous bounds on worst case floating point round-off errors. But unlike Satire, Seesaw works on floating-point programs WITH conditions.
 
-
-FPChecker: 
-  title: 'FPChecker: Detecting Floating-point Exceptions in GPU Applications'
-  author: Laguna Ignacio
+FPChecker:
+  title: "FPChecker: Detecting Floating-point Exceptions in GPU Applications"
+  author: Ignacio Laguna
   url: https://fpchecker.org/
   repo: https://github.com/LLNL/FPChecker
-  #crossref={}
   abstract: FPChecker is a dynamic analysis tool to detect floating-point errors in HPC applications.
